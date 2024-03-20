@@ -1,0 +1,6 @@
+Major
+
+minor 
+query info solved - but method is deprecated caution 
+
+register twice login twice

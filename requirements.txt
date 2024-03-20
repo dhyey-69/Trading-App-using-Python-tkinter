@@ -1,0 +1,13 @@
+pickle
+tkinter 
+requests
+beautifulsoup4
+yahoo_fin
+csv
+sqlite3 
+selenium 
+webbrowser
+
+
+
+pip install pickle tkinter requests beautifulsoup4 yahoo_fin csv sqlite3 selenium
